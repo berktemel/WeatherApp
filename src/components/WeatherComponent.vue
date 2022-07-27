@@ -42,7 +42,7 @@ export default {
   components: {
     PartlyCloudy,
   },
-  name: 'HelloWorld',
+  name: 'WeatherComponent',
   props: {
     msg: String
   },
